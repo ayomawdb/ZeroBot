@@ -51,3 +51,7 @@ mkvirtualenv cv -p python3
 pip install "picamera[array]"
 
 cd ~
+
+pip install scikit-build
+pip install opencv-contrib-python==4.4.0.42
+pip install opencv-python==4.4.0.42
